@@ -1,0 +1,32 @@
+{
+    "client":{
+        "company": "Ma super entreprise",
+        "adress": "118 Boulevard des Canadiens"
+    },
+    "quote": {
+        "id": 21,
+        "ref": "abc123-k"
+    },
+    "table": [
+        {
+            "titre": "Mon article numero 1",
+            "price": 165
+        },
+        {
+            "titre": "Mon article numero 2",
+            "price": 198
+        },
+        {
+            "titre": "Mon article numero 3",
+            "price": 1023
+        },
+        {
+            "titre": "Mon article numero 4",
+            "price": 670
+        },
+        {
+            "titre": "Mon article numero 5",
+            "price": 32
+        }
+    ]
+}
